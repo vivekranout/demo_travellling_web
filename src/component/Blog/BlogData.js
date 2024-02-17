@@ -1,0 +1,88 @@
+
+
+const BlogData = [
+{
+    id:1,
+    date: "January 01, 2020",
+    category: "Business",
+   title:"The Most Advance Business Plan",
+   cover:"/imgs/singlepage/blog-1.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. <span>Delectus eius nisi deleniti voluptatibus minus</span> nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. <span>Delectus eius nisi deleniti voluptatibus minus</span> nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+},
+{
+    id:2,
+    date: "January 15, 2021",
+    category: "Traveling",
+   title:"Beautiful Home Page",
+   cover:"/imgs/singlepage/blog-2.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. <span>Delectus eius nisi deleniti voluptatibus minus</span> nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. <span>Delectus eius nisi deleniti voluptatibus minus</span> nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+},
+{
+    id:3,
+    date: "March 01, 2020",
+    category: "Content Writing",
+   title:"Investment Planning",
+   cover:"/imgs/singlepage/blog-5.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat.",
+},
+{
+    id:4,
+    date: "August 10, 2020",
+    category: "Traveling",
+   title:"Beautiful Home Page",
+   cover:"/imgs/singlepage/blog-4.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit.Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat.",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+},
+{
+    id:5,
+    date: "May 20, 2021",
+    category: "Business",
+   title:"Smart Flexible Visiting Card",
+   cover:"/imgs/singlepage/blog-3.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+},
+{
+    id:6,
+    date: "January 03, 2021",
+    category: "Traveling",
+   title:"Beautiful Views",
+   cover:"/imgs/singlepage/blog-6.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat.",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+},
+{
+    id:7,
+    date: "November, 2021",
+    category: "Business",
+   title:"The Most Advance Business Plan",
+   cover:"/imgs/singlepage/blog-3.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+},
+{
+    id:8,
+    date: "January 10, 2022",
+    category: "Content Writing",
+   title:"Investment Planning",
+   cover:"/imgs/singlepage/blog-5.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit.Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+},
+{
+    id:9,
+    date: " July 21, 2022",
+    category: "Traveling",
+   title:"Beautiful Home Page",
+   cover:"/imgs/singlepage/blog-2.jpg",
+   para:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+   desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus eius nisi deleniti voluptatibus minus nostrum deserunt fugiat provident reprehenderit ullam quod veniam, tenetur accusantium quia itaque est magnam culpa rerum commodi doloribus repellat. ",
+},
+
+]
+
+export default BlogData

@@ -1,0 +1,63 @@
+.btnss{
+    float: right;
+    padding-right: 50px;
+  
+}
+
+.imgss{
+ border: 2px solid gainsboro;
+   padding: 50px;
+  
+}
+.imgss img{
+    width: 100%;
+    height: 500px;
+}
+.fatures {
+    margin-top: 50px;
+}
+.fatures h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 750px;
+}
+.fatures h1 span{
+    color: #31b675;
+    font-size: 30px;
+}
+.fatures p{
+    
+    text-align: center;
+    width: 70%;
+    margin-left:250px;
+}
+.fatures{
+  
+      box-sizing: border-box;
+    background-color: aliceblue;
+}
+
+.containss {
+    margin-top: 50px;
+}
+.txtts h1{
+    padding-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 450px ;
+}
+.txtts h1 span{
+    color: #31b675;
+    font-size: 30px;
+}
+.txtts p{
+    padding-top: 20px;
+    text-align: center;
+    width: 70%;
+    margin-left:250px;
+}
+.txtts{
+  
+      box-sizing: border-box;
+    background-color: aliceblue;
+}
